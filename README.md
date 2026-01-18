@@ -49,6 +49,8 @@ I analyzed sales data to find business insights. This project shows my data clea
 4. Run all cells
 
 ## 👨‍💻 About Me
-**Name:** [Your Name Here]
+**Name:** Salim Zulfiqar
+
 **Skills:** Python, Data Analysis, Pandas, Visualization
-**Contact:** [Your Email]
+
+**Contact:** salimzulfiqar51@gmail.com
