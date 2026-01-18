@@ -51,6 +51,12 @@ I analyzed sales data to find business insights. This project shows my data clea
 ## 👨‍💻 About Me
 **Name:** Salim Zulfiqar
 
-**Skills:** Python, Data Analysis, Pandas, Visualization
+**Role:** Data Analyst / Python Developer
+
+**Skills:** Python, Pandas, Data Cleaning, Visualization, Business Insights
 
 **Contact:** salimzulfiqar51@gmail.com
+
+**Linkdin:** (https://www.linkedin.com/in/salim-zulfiqar-947688371?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+
