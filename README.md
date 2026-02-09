@@ -24,7 +24,8 @@ I analyzed sales data to find business insights. This project shows my data clea
 - Shipping takes too long sometimes
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](sales_analysis.png)
+<img width="923" height="637" alt="image" src="https://github.com/user-attachments/assets/d960720b-86e0-4729-a947-67bf19360d8c" />
+
 
 *This is the dashboard I created showing sales analysis*
 
@@ -58,5 +59,6 @@ I analyzed sales data to find business insights. This project shows my data clea
 **Contact:** salimzulfiqar51@gmail.com
 
 **Linkdin:** (https://www.linkedin.com/in/salim-zulfiqar-947688371?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 
